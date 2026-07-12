@@ -9,4 +9,4 @@ def red_Set(b):
 			d=(d+1)//2
 			count += 2
 	return count	
-print(red_Set('1'))
+print(red_Set('1011'))
